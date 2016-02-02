@@ -1,0 +1,21 @@
+{
+    "name": "sanduhrs/php-jrd",
+    "description": "The JSON Resource Descriptor (JRD)",
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.1"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Stefan Auditor",
+            "email": "stefan.auditor@erdfisch.de"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "sanduhrs\\JRD\\": "src"
+      }
+    }
+}
