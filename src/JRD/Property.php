@@ -5,7 +5,7 @@
  * Contains \sanduhrs\Member\Property.
  */
 
-namespace sanduhrs\JRD\Member;
+namespace sanduhrs\JRD;
 
 /**
  * Property.

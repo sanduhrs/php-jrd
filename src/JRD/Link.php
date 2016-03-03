@@ -5,7 +5,7 @@
  * Contains \sanduhrs\Member\Link.
  */
 
-namespace sanduhrs\JRD\Member;
+namespace sanduhrs\JRD;
 
 /**
  * Link.

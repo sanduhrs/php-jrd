@@ -5,7 +5,7 @@
  * Contains \sanduhrs\Member\Alias.
  */
 
-namespace sanduhrs\JRD\Member;
+namespace sanduhrs\JRD;
 
 /**
  * Alias.

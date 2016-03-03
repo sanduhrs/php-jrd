@@ -5,7 +5,7 @@
  * Contains \sanduhrs\Member\Subject.
  */
 
-namespace sanduhrs\JRD\Member;
+namespace sanduhrs\JRD;
 
 /**
  * Subject.

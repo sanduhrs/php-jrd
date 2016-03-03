@@ -5,12 +5,12 @@
  * Contains \sanduhrs\JRD.
  */
 
-namespace sanduhrs\JRD;
+namespace sanduhrs;
 
-use sanduhrs\JRD\Member\Alias;
-use sanduhrs\JRD\Member\Link;
-use sanduhrs\JRD\Member\Property;
-use sanduhrs\JRD\Member\Subject;
+use sanduhrs\JRD\Alias;
+use sanduhrs\JRD\Link;
+use sanduhrs\JRD\Property;
+use sanduhrs\JRD\Subject;
 use JsonSerializable;
 
 /**
